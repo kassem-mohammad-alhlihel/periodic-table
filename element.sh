@@ -24,3 +24,4 @@ else
     done
   fi
 fi
+# Usage: ./element.sh <atomic_number|symbol|name>
